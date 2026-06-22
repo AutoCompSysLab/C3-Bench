@@ -70,4 +70,6 @@ To meaningfully communicate and determine the correct change description among m
 - **Open-source LMMs are catching up fast.**  
   Qwen3-VL-32B achieves highly competitive results, approaching proprietary models and trailing GPT-5.2 by only **0.35 points** in Aggregation.
 
+<div align='center'> <br><img src="image/c3.png" width=100%> <br><strong>C3-Bench results.</strong> Mean and standard deviation are reported over three
+GPT-5.2 runs. </div>
 

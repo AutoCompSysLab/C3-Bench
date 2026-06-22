@@ -73,3 +73,18 @@ To meaningfully communicate and determine the correct change description among m
 <div align='center'> <br><img src="image/c3.png" width=100%> <br><strong>C3-Bench results.</strong> Mean and standard deviation are reported over three
 GPT-5.2 runs. </div>
 
+## 📃 Citation
+
+If you find the work useful for your research, please cite:
+
+```bibtex
+@InProceedings{Kim_2026_ECCV,
+    author    = {Kim, Jae-Woo and Kim, Hyeongbeom and Kim, Ue-Hwan},
+    title     = {C3-Bench: A Context-Aware Change Captioning Benchmark},
+    booktitle = {Proceedings of the European Conference on Computer Vision (ECCV)},
+    year      = {2026}
+}
+
+```
+
+=

@@ -1,0 +1,10 @@
+# Core dependencies for C3-Bench
+torch>=2.1
+transformers>=4.49      # Qwen2.5-VL / Qwen3-VL / InternVL3 support
+accelerate>=0.26        # required for device_map="auto"
+pillow>=9.0
+numpy>=1.24
+tqdm>=4.65
+
+# Optional: enable --attn-impl flash_attention_2
+# flash-attn>=2.5

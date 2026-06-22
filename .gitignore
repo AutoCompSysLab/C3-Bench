@@ -1,0 +1,27 @@
+# Byte-compiled / cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Packaging / build artifacts
+*.egg-info/
+.eggs/
+build/
+dist/
+
+# Generated benchmark artifacts
+outputs/
+eval_outputs/
+
+# Virtual environments
+.venv/
+venv/
+.env
+
+# Logs
+*.log
+
+# OS / editor
+.DS_Store
+.idea/
+.vscode/

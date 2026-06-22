@@ -44,7 +44,7 @@ Without context, this generic question can admit multiple logically valid descri
 </tr>
 </table>
 
+<br>
 
-To meaningfully communicate and determine the correct change 054
-055 description among multiple logically valid alternatives in a heterogeneous visual world, each change must be grounded in specific contexts and associated criteria which clearly define the underlying semantics. 
+To meaningfully communicate and determine the correct change description among multiple logically valid alternatives in a heterogeneous visual world, each change must be grounded in **specific contexts** and **associated criteria** which clearly define the underlying semantics. 
 

@@ -1,3 +1,4 @@
+# C3-Bench: A Context-Aware Change Captioning Benchmark
 This repository represents the official implementation of the paper titled "C3-Bench: A Context-Aware Change Captioning Benchmark (ECCV 2026)". 
 
 [![Paper](https://img.shields.io/badge/arXiv-PDF-b31b1b)](https://arxiv.org/abs/XXXX.XXXXX)

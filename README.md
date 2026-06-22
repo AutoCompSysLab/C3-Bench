@@ -48,3 +48,26 @@ Without context, this generic question can admit multiple logically valid descri
 
 To meaningfully communicate and determine the correct change description among multiple logically valid alternatives in a heterogeneous visual world, each change must be grounded in **specific contexts** and **associated criteria** which clearly define the underlying semantics. 
 
+## 🌐 C3-Bench
+
+
+## 🏆 Results
+
+### Key Findings
+
+- **Humans still set the upper bound.**  
+  Human evaluators outperform the strongest LMM, GPT-5.2, by **1.73 points** in Aggregation and achieve a high Reversibility score of **0.93**, revealing a clear gap between current models and human-level change understanding.
+
+- **Fluency is not understanding.**  
+  Conventional change captioning models often generate fluent sentences, but their performance drops sharply across diverse real-world contexts, showing that linguistic quality alone does not guarantee correct change reasoning.
+
+- **Context matters.**  
+  The failure of conventional models highlights the limitation of prior benchmarks: models trained on narrow, dataset-specific change definitions struggle when the target change semantics shift across contexts.
+
+- **LMMs reshape the landscape.**  
+  Proprietary LMMs deliver the strongest overall performance, with GPT-5.2 leading the benchmark, demonstrating the benefit of large-scale multimodal reasoning under explicit context conditioning.
+
+- **Open-source LMMs are catching up fast.**  
+  Qwen3-VL-32B achieves highly competitive results, approaching proprietary models and trailing GPT-5.2 by only **0.35 points** in Aggregation.
+
+

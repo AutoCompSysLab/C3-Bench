@@ -25,7 +25,7 @@ what might first come to mind is <b>"in which context?"</b>, as the definition o
 </p>
 
 <p> the valid description would be
-<i>"the snow has covered the ground, and cloud cover has decreased.</i> in respect of weather, whereas it is <i>"a train has appeared on the left side of the tracks"</i> for railway surveillance,
+<i>"<ins>the snow has covered the ground, and cloud cover has decreased.</ins>"</i> in respect of weather, whereas it is <i>"<ins>a train has appeared on the left side of the tracks</ins>"</i> for railway surveillance,
 with weather differences treated as pseudo-changes.
 </p>
 

@@ -67,6 +67,8 @@ We introduce **C3-Bench**, a comprehensive benchmark for **Context-aware Change 
   * **9** leading proprietary MLLMs, such as GPT-5.2 and Gemini 3
   * **17** open-source MLLMs, such as Qwen3 and InternVL3.5
 
+<div align='center'> <br><img src="image/sample (1)-1.png" width=100%> <br><strong>Examples from C3-Bench.</strong> Each image pair is displayed with its Domain:
+Context</div>
 
 ## 🏆 Results
 

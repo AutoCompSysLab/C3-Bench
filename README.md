@@ -52,7 +52,7 @@ To meaningfully communicate and determine the correct change description among m
 
 We introduce **C3-Bench**, a comprehensive benchmark for **Context-aware Change Captioning**, featuring:
 
-* **4,996** human-annotated image pairs
+* **4,996** human-annotated image pairs with change caption and context-specific criteria
 * **51** real-world change contexts
 * **4** visual domains:
 

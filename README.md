@@ -19,14 +19,14 @@ Change Captioning aims to describe the changes between two images.
 </p>
 
 <p>
-However, <i>what counts as change</i> is totally context-dependent.
+However, <i>what counts as change</i> is inherently context-dependent.
 For example, when one is asked to describe the change between the given image pair,
-what might first come to mind is <b>"in which context?"</b>.
+what might first come to mind is <b>"in which context?"</b>, as the definition of correct change can vary depending on the given context: 
 </p>
 
-<p>
-<i>the snow has covered the ground</i> for weather analysis, or
-<i>a train has appeared on the left side of the tracks</i> for railway surveillance,
+<p> the valid description would be
+<i>"the snow has covered the ground, 050
+051 and cloud cover has decreased.</i> in respect of weather, whereas it is <i>"a train has appeared on the left side of the tracks"</i> for railway surveillance,
 with weather differences treated as pseudo-changes.
 </p>
 

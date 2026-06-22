@@ -34,7 +34,7 @@ with weather differences treated as pseudo-changes.
 
 <td width="45%" align="center">
 
-<img src="image/hook-1.png" width="100%">
+<img src="image/hook (1)-1.png" width="100%">
 
 <br><br>
 

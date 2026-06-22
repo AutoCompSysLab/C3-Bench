@@ -50,6 +50,23 @@ To meaningfully communicate and determine the correct change description among m
 
 ## 🌐 C3-Bench
 
+We introduce **C3-Bench**, a comprehensive benchmark for **Context-aware Change Captioning**, featuring:
+
+* **4,996** human-annotated image pairs
+* **51** real-world change contexts
+* **4** visual domains:
+
+  * Natural Scenes
+  * Remote Sensing Imagery
+  * Image Editing
+  * Anomalies
+* Human-aligned **LLM-as-a-Judge** evaluation for fine-grained semantics and reversibility
+* Comprehensive benchmarking of **32** models, including:
+
+  * **6** conventional change captioning models, such as DUDA
+  * **9** leading proprietary MLLMs, such as GPT-5.2 and Gemini 3
+  * **17** open-source MLLMs, such as Qwen3 and InternVL3.5
+
 
 ## 🏆 Results
 

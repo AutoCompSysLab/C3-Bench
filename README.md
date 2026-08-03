@@ -9,7 +9,7 @@ This repository represents the official implementation of the paper titled "C3-B
 <p align="center"> <a href="https://1124jaewookim.github.io/"><strong>Jaewoo Kim</strong></a> · <a href="https://hbk08101.github.io/"><strong>Hyeongbeom Kim</strong></a> · <a href="https://uehwan.github.io/people/Ue-Hwan-Kim/"><strong>Uehwan Kim</strong></a> <br> <strong>ECCV 2026</strong> </p> <div align='center'> <br><img src="image/teaser-1.png" width=100%> <br><strong>Overview of C3-Bench.</strong> The examples are from each context in C3-Bench. </div> <br><br>
 
 <p align="center">
-  <em>The dataset is currently being refined to ensure its quality and usability and will be released in accordance with the ECCV 2026 schedule.</em>
+  <ins>The dataset is currently being refined to ensure its quality and usability and will be released in accordance with the ECCV 2026 schedule.</ins>
 </p>
 
 

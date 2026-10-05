@@ -2,16 +2,11 @@
 This repository represents the official implementation of the paper titled "C3-Bench: A Context-Aware Change Captioning Benchmark (ECCV 2026)". 
 
 [![arXiv](https://img.shields.io/badge/arXiv-2606.25445-b31b1b?logo=arxiv&logoColor=white)](https://arxiv.org/abs/2606.25445)
-[![Dataset](https://img.shields.io/badge/Dataset-Google%20Drive-34A853)](https://docs.google.com/forms/d/e/1FAIpQLSfCYYIX-rUoZZb7vEKbCd8Iy7RsjKyJUprb68zP1kXbsIqrGw/viewform?usp=dialog)
+[![Dataset](https://img.shields.io/badge/Dataset-Google%20Drive-34A853)](https://drive.google.com/drive/folders/1y3sVXDaJRWAJS-ZsC8DgUpQbvURFvEOx?usp=sharing)
 [![License](https://img.shields.io/badge/License-MIT-929292)](LICENSE)
 [![ECCV 2026](https://img.shields.io/badge/ECCV%202026-Accepted-blue)](#)
 
 <p align="center"> <a href="https://1124jaewookim.github.io/"><strong>Jaewoo Kim</strong></a> · <a href="https://hbk08101.github.io/"><strong>Hyeongbeom Kim</strong></a> · <a href="https://uehwan.github.io/people/Ue-Hwan-Kim/"><strong>Uehwan Kim</strong></a> <br> <strong>ECCV 2026</strong> </p> <div align='center'> <br><img src="image/teaser-1.png" width=100%> <br><strong>Overview of C3-Bench.</strong> The examples are from each context in C3-Bench. </div> <br><br>
-
-<p align="center">
-  <ins>The dataset is currently being refined to ensure its quality and usability and will be released in accordance with the ECCV 2026 schedule.</ins>
-</p>
-
 
 <table>
 <tr>
@@ -57,7 +52,7 @@ To meaningfully communicate and determine the correct change description among m
 
 We introduce **C3-Bench**, a comprehensive benchmark for **Context-aware Change Captioning**, featuring:
 
-* **4,996** human-annotated image pairs with change caption and context-specific criteria
+* **4,754** human-annotated image pairs with change caption and context-specific criteria (further filtered)
 * **51** real-world change contexts
 * **4** visual domains:
 
